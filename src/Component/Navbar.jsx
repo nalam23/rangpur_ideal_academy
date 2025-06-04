@@ -22,7 +22,7 @@ const navbar = () => {
       position: "absolute",
       top: "30px",
       left: 0,
-      backgroundColor: "#34495e",
+      backgroundColor: "#14e0e3",
       padding: "10px",
       display: "none",
       flexDirection: "column",
@@ -57,9 +57,9 @@ const navbar = () => {
         {item}
         {menuWithDropdown.includes(item) && (
           <div className="dropdown" style={styles.dropdown}>
-            <a href="#" style={{ color: "#fff", padding: "5px 0" }}>Submenu 1</a>
-            <a href="#" style={{ color: "#fff", padding: "5px 0" }}>Submenu 2</a>
-            <a href="#" style={{ color: "#fff", padding: "5px 0" }}>Submenu 3</a>
+            <a href="#" style={{ color: "#fff", padding: "5px 0" }}>Campus-1</a>
+            <a href="#" style={{ color: "#fff", padding: "5px 0" }}>Campus-2</a>
+            <a href="#" style={{ color: "#fff", padding: "5px 0" }}>Campus-3</a>
           </div>
         )}
       </div>
