@@ -2,7 +2,8 @@ import { BrowserRouter as Router} from "react-router-dom";
 import TopBar from "./Component/TopBar"
 import Header from "./Component/Header";
 import Navbar from "./Component/Navbar";
-import Slider from "./Component/Slider";
+import Footer from "./Component/Footer";
+import HomePage from "./Component/HomePage";
 
 
 function App() {
@@ -11,7 +12,9 @@ function App() {
       <TopBar></TopBar>
       <Header></Header>
       <Navbar></Navbar>
-     <Slider></Slider>
+      <HomePage></HomePage>
+      <Footer></Footer>
+    
       
     
     </Router>

@@ -2,7 +2,7 @@ import React from 'react'
 import { FaHome } from "react-icons/fa";
 
 
-const navbar = () => {
+const Navbar = () => {
   const styles = {
     navbar: {
       backgroundColor: "#2c3e50",
@@ -87,4 +87,4 @@ const navbar = () => {
   );
 };
 
-export default navbar
+export default Navbar
