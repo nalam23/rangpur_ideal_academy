@@ -11,7 +11,7 @@ const Header = () => {
       justifyContent: "center",
       padding: "10px 0",
       borderBottom: "1px solid green",
-      backgroundColor: "#fff",
+      backgroundColor: "#FF5733",
     },
     logo: {
       height: "70px",
@@ -23,12 +23,12 @@ const Header = () => {
     title: {
       fontSize: "24px",
       fontWeight: "bold",
-      color: "green",
+      color: "#FFFFFF",
       margin: "0",
     },
     subtitle: {
       fontSize: "16px",
-      color: "#333",
+      color: "#FFFACD",
       marginTop: "4px",
     },
   };

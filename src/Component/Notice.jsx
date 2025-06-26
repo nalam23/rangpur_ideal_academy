@@ -2,7 +2,7 @@ import React from 'react'
 
 const Notice = () => {
   return (
-    <div className='Notice-board'>
+    <div>
         <h4 style={{textAlign:'center', color: "#e4ff00"}}>নোটিশ বোর্ড</h4> 
         <ul>
             <li> <a href="/notice.pdf" target='_blank' rel='noopener noreferer' style={{color:'white', textDecoration:'none'}}>Notice for Eid-Ul-Azhar</a>

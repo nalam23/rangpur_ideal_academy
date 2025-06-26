@@ -9,7 +9,7 @@ const HomePage = () => {
 <div style={{width:'75%'}}>
     <Slider></Slider>
 </div>
-<div style={{width:'25%', backgroundColor: '#9c27b0', padding: '20px'}}>
+<div style={{width:'25%', backgroundColor: 'green', padding: '20px'}}>
     <Notice></Notice>
 </div>
 

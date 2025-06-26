@@ -5,7 +5,7 @@ import { FaHome } from "react-icons/fa";
 const Navbar = () => {
   const styles = {
     navbar: {
-      backgroundColor: "#2c3e50",
+      backgroundColor: "#FF6F61",
       display: "flex",
       justifyContent: "center",
       padding: "10px",
